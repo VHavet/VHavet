@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text][logo]
+![logo]
 
 [logo]: ![https://github.com/VHavet/VHavet/blob/main/banner1.jpg]
 <!--
