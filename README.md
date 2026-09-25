@@ -1,5 +1,8 @@
 ## Hi there 👋
-![2880491073a0d883e7dd0afc98932daf.jpg]
+
+![alt text][logo]
+
+[logo]: ![2880491073a0d883e7dd0afc98932daf.jpg]
 <!--
 **VHavet/VHavet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
