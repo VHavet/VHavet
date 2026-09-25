@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ![logo]
-
-[logo]: ![https://github.com/VHavet/VHavet/blob/main/banner1.jpg]
+<img src="https://github.com/VHavet/VHavet/blob/main/banner1.jpg" alt="Bannière du projet" width="100%">
 <!--
 **VHavet/VHavet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
